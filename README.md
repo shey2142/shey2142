@@ -34,7 +34,7 @@ Machine Learning Engineer With Bioinformatics approach
 
 <b>My GitHub Stats</b>
 
-<h3 align="left">🔮 Python | 40%</h3><img align="left" src="https://raw.githubusercontent.com/imrrobat/imrrobat/main/images/bar.png" width="200px" height="16px">
+<h3 align="left">🔮 Python | 50%</h3><img align="left" src="https://raw.githubusercontent.com/imrrobat/imrrobat/main/images/bar.png" width="200px" height="16px">
 
 ### Support Me
 <a href="https://www.buymeacoffee.com/Sh3y"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
