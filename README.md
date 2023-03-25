@@ -4,7 +4,7 @@ My name is Shayan Moharer Navaei
 Machine Learning Engineer With Bioinformatics approach
 -----------------------------
 
-*   🖥️  See my portfolio at Linkedin([https://badrnezhad.com](https://www.linkedin.com/in/shayan-moharer-navaei-a04400211/))
+*   🖥️  See my portfolio at Linkedin (https://www.linkedin.com/in/shayan-moharer-navaei-a04400211/))
 *   🚀  I'm currently working as Freelancer
 *   🤝  I'm open to collaborating on interesting projects as a web and android developer
 
