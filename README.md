@@ -34,6 +34,7 @@ Machine Learning Engineer With Bioinformatics approach
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/shey2142" align="left"><img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badrnezhad&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<h3 align="left">🔮 Python | 40%</h3><img align="left" src="https://raw.githubusercontent.com/imrrobat/imrrobat/main/images/bar.png" width="200px" height="16px">
+
 ### Support Me
 <a href="https://www.buymeacoffee.com/Sh3y"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
