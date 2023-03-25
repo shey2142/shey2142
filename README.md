@@ -6,7 +6,7 @@ Machine Learning Engineer With Bioinformatics approach
 
 *   🖥️  See my portfolio at [Linkedin](https://www.linkedin.com/in/shayan-moharer-navaei-a04400211/)
 *   🚀  I'm currently working as Freelancer
-*   🤝  I'm open to collaborating on interesting projects as a web and android developer
+*   🤝  I'm open to collaborating on interesting projects as a Machine learning Engineer and Python developer
 
 <a href="https://github.com/shey2142" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/badrnezhad?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
