@@ -15,7 +15,8 @@ Machine Learning Engineer With Bioinformatics approach
                   
 ### Skills
 <p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/97303608/227737193-fb3cc1df-7cd9-4261-bcdb-a820b67da638.svg)
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="![python-icon](https://user-images.githubusercontent.com/97303608/227737193-fb3cc1df-7cd9-4261-bcdb-a820b67da638.svg)
+
 " width="36" height="36" alt="Python" /></a>
 </p>
                     
