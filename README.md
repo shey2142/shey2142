@@ -29,7 +29,7 @@ Machine Learning Engineer With Bioinformatics approach
   
   <a href="https://www.linkedin.com/in/shayan-moharer-navaei-a04400211/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
   
-
+![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 ### Badges
 
 <b>My GitHub Stats</b>
