@@ -23,7 +23,8 @@ Machine Learning Engineer With Bioinformatics approach
 ### Socials
                   
 <p align="left">
-    <a href="https://www.kaggle.com/shayannavaie" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+    <a href="https://www.kaggle.com/shayannavaie" target="_blank" rel="noreferrer"><img src="![kaggle-ar21](https://user-images.githubusercontent.com/97303608/227737351-4abb2e11-1d2d-43b7-b87c-282216a3e91a.svg)
+" width="32" height="32" /></a>
 <a href="https://github.com/shey2142" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
   
   <a href="https://www.linkedin.com/in/shayan-moharer-navaei-a04400211/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
