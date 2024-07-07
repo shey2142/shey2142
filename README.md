@@ -1,7 +1,7 @@
 Hello, My name is Shayan Moharer Navaei
 ===============================
 
-:fire: Machine Learning Engineer and Software Developer :fire:
+:fire: Python Developer and Data Engineer :fire:
 -----------------------------
 <img src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" alt="just for fun :D">
 
